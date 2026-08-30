@@ -12,7 +12,7 @@ I hope to learn how to better visualize and communicate complex policy data so i
 
 # Portfolio
 
-This is my public portfolio for Telling Stories with Data at CMU! I am excited to share all my exciting projects! 
+This is my public portfolio for Telling Stories with Data at CMU! I am excited to share all my projects! 
 
 ## Assignment 1: [Visualizing Government Debt](visualizing-government-debt)
 
