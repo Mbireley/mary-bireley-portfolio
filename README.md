@@ -16,7 +16,7 @@ This is my public portfolio for Telling Stories with Data at CMU! I am excited t
 
 ## Assignment 1: [Visualizing Government Debt](dataviz-examples.html)
 
-This is my first assignment where I visualize the debt-to-GDP ratios of selected countries over a period of time. This was my first time using Tableau!
+This is my first assignment where I visualize the debt-to-GDP ratios of selected countries over a period of time. This was my first time using Tableau! 
 
 ## Assignments 3 & 4: [Critique by Design](critique-by-design)
 
