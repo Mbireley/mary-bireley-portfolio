@@ -1,4 +1,4 @@
-| [Home](https://mbireley.github.io/mary-bireley-portfolio/) | [Visualizing Government Debt](dataviz-examples) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
+| [Home](https://mbireley.github.io/mary-bireley-portfolio/) | [Visualizing Government Debt](dataviz-examples.html) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
 # About Me
 
@@ -14,7 +14,7 @@ I hope to learn how to better visualize and communicate complex policy data so i
 
 This is my public portfolio for Telling Stories with Data at CMU! I am excited to share all my projects! 
 
-## Assignment 1: [Visualizing Government Debt](dataviz-examples)
+## Assignment 1: [Visualizing Government Debt](dataviz-examples.html)
 
 This is my first assignment!
 
