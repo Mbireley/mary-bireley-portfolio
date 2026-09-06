@@ -5,6 +5,7 @@ Here are some data visualization examples I made during my time in Telling Stori
 
 ## Visualizing Government Debt
 
+### Heat Map
 Here is a heat map I created by following along with my professor's instructions. 
 
 <div class='tableauPlaceholder' id='viz1788654331795' style='position: relative'>
@@ -37,5 +38,5 @@ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
 vizElement.parentNode.insertBefore(scriptElement, vizElement);           
 </script>
 
-
+### Line Chart
 Here is the first Tableau visualization I created independently. I am currently in a course here at Heinz called “The Rise of Asian Economies,” where I have been learning about Japan’s economic history. I learned that Japan experienced rapid economic growth in the Post World War II era, but then around 1990 it experienced an economic crash due to an asset bubble burst. After that, Japan experienced decades of economic stagnation. Because the OECD dataset covers that time period of Japan’s stagnation, I wanted to explore its general government debt during this time, and compare it to the other major economies that Japan had previously been converging upon
