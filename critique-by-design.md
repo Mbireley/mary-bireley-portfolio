@@ -96,5 +96,7 @@ Overall, although my graph may not be very colorful, I think it conveys the stor
 ## References
 
 Berinato, Scott, Good Charts, “When a Chart Hits Our Eyes,” 2023, 114-118. 
+
 Few, Stephen. “Data Visualization Effectiveness Profile,” 2017, 11.
+
 Walk Free, “Key Findings From the Global Slavery Index,” 2023.
