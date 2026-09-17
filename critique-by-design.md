@@ -1,13 +1,13 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [Home](https://mbireley.github.io/mary-bireley-portfolio/) | [Data Visualization Examples](dataviz-examples.html) | [Critique by Design](critique-by-design.html) | [Final Project I](final-project-part-one.html) | [Final Project II](final-project-part-two.html) | [Final Project III](final-project-part-three.html) |
 
-# Title
-Text here...
+# Critique By Design
 
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
+Here is an assignment I did called "Critique by Design." I chose a visualization from a website called Makeover Monday, and I had to critique it, sketch a possible redesign, get targeted feedback from my peers, and create a final redesign in Tableau. Below you can read about each step I took, and at the end you will see my finished visualization!
 
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
 
-## Step one: the visualization
+## Step one: The Visualization I Chose to Redesign
+
+
 
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
