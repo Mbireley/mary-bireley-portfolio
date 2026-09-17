@@ -20,7 +20,7 @@ This is my first assignment. Initially I followed along with my professor's inst
 
 ## Assignments 3 & 4: [Critique by Design](critique-by-design)
 
-Here are more of my assignments!
+Here is an assignment I did called "Critique by Design." I chose a visualization from a website called Makeover Monday, and I had to critique it, sketch a possible redesign, get targeted feedback from my peers, and create a final redesign in Tableau. Below you can read about each step I took, and at the end you will see my finished visualization!
 
 ## Final Project
 
