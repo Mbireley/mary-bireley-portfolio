@@ -7,6 +7,8 @@ Here is an assignment I did called "Critique by Design." I chose a visualization
 
 ## Step one: The Visualization I Chose to Redesign
 
+![Original Design](Original%20Design.png) 
+
 
 
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
