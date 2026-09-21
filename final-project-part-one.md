@@ -2,7 +2,7 @@
 
 This is the proposal for my Final Project!
 
-# Planning, Summary, and Outline
+# Planning
 
 ## In-Class Preparation 
 
@@ -29,12 +29,16 @@ The audience will emotionally be very inquisitive and ready to learn at the begi
 I also hope to give this story a very human dimension, so users can feel more emotionally invested. I don’t want them to see these people experiencing homelessness as just data points. I might be able to accomplish this by weaving personal stories of people in these experiences into the story alongside the visualizations. The stories specific “peaks and valleys” that we spoke of in class will become more clear once I delve into the data, and they will help guide the users’ emotional journey, too. 
 
 ![Story Arc](Storyarc.png) 
- 
+
+# Summary
+
 ## High-Level Summary 
 
 This project will examine how homelessness and the availability of shelter have changed in the United States between 2014 and 2024. I want to compare the number of people experiencing homelessness with the total number of year-round available beds. This can show a broader picture of how the capacity to provide shelter to those experiencing homelessness changed alongside the overall size of the homeless population. I also want to distinguish between sheltered and unsheltered homelessness to examine how the composition of homelessness changed over time with capacity.
 
 I also want to incorporate race into my project, examining these patterns between different racial groups. I want to explore whether changes in sheltered and unsheltered homelessness have been similar across racial groups. I can use the date I have found to show shelter capacity and the population experiencing homelessness changing alongside one another to help my users understand both the scale of homelessness and how experiences of homelessness differ across groups over time. 
+
+# Outline
 
 ## Story Structure Outline
 
