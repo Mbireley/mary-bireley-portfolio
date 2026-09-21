@@ -47,7 +47,7 @@ Based on my outline and story arc, I created sketches with paper and pencil to s
 
 # The Data
 
-My two primary data sources come from the U.S. Department of Housing and Urban Development (HUD). I am utilizing HUD’s 2007-2024 Point-in-Time (PIT) Estimates by State dataset, and its 2007-2024 Housing Inventory Count (HIC) by State dataset. Both datasets can be found on HUD’s website [here]([https://makeovermonday.vercel.app/dataset/2024w47-global-slavery-index](https://www.huduser.gov/portal/datasets/ahar/2024-ahar-part-1-pit-estimates-of-homelessness-in-the-us.html) 
+My two primary data sources come from the U.S. Department of Housing and Urban Development (HUD). I am utilizing HUD’s 2007-2024 Point-in-Time (PIT) Estimates by State dataset, and its 2007-2024 Housing Inventory Count (HIC) by State dataset. Both datasets can be found on HUD’s website [here]([https://www.huduser.gov/portal/datasets/ahar/2024-ahar-part-1-pit-estimates-of-homelessness-in-the-us.html])
 
 The PIT Count dataset provides estimates of the number of people experiencing homelessness on a single night in January, and the data distinguishes between people experiencing sheltered and unsheltered homelessness. The dataset also provides demographic information for some years. I will focus on the years 2014-2024 of this dataset to examine changes in the overall number of people experiencing homelessness and to compare sheltered versus unsheltered homelessness. I will also use the demographic data on race to explore differences across racial groups. 
 
