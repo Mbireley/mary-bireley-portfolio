@@ -22,7 +22,7 @@ This project examines how homelessness and shelter capacity have changed in the 
 
 ### Story-Arc: The Emotional Journey of the Audience 
 
-My imagined audience is local policymakers or community advocates interested in understanding homelessness and identifying ways to respond to it in their areas.  In this illustrated story-arc, you can see that I imagined my users as coming into my story with their questions and curiosities. I imagined they knew homelessness was a serious issue, but they might be unaware of how the size of the population has changed, how the population is divided, how shelter capacity has changed, and how racial groups differ. They might also not have a personal, emotional connection to the issue, at this point. So my story must first establish that emotional connection, and the scale and trajectory of homelessness in the United States, which begins to address some questions the audience arrived with. The audience will likely be shocked by the scale and magnitude of this issue, as depicted in the story-arc illustration. My story will continue to shock the audience when I add in more information regarding different ways people experience homelessness (sheltered versus unsheltered), the change in the amount of available shelter beds, and the racial differences, while simultaneously weaving in personal experiences of those impacted.
+My imagined audience is local policymakers or community advocates interested in understanding homelessness and identifying ways to respond to it in their areas.  In this illustrated story-arc, you can see that I imagined my users as coming into my story with their questions and curiosities. I imagined they knew homelessness was a serious issue, but they might be unaware of how the size of the population has changed, how the population is divided, how shelter capacity has changed, and how racial groups differ. They might also not have a personal, emotional connection to the issue, at this point. So my story must first establish that emotional connection, and the scale and trajectory of homelessness in the United States, which begins to address some questions the audience arrived with. The audience will likely be shocked by the scale and magnitude of this issue, as depicted in the story-arc illustration. My story will continue to enlighten the audience when I add in more information regarding different ways people experience homelessness (sheltered versus unsheltered), the change in the amount of available shelter beds, and the racial differences, while simultaneously weaving in personal experiences of those impacted.
 
 The audience will emotionally be very inquisitive and ready to learn at the beginning, and as the story progresses they will become more surprised, aware, and invested, and by the end they will have a more nuanced understanding.  They will then feel empowered to take what they have learned and use it as a starting point to engage with the issue of homelessness in their own community, after seeing how truly far-reaching it is.
  
@@ -34,9 +34,11 @@ I also hope to give this story a very human dimension, so users can feel more em
 
 ## High-Level Summary 
 
-This project will examine how homelessness and the availability of shelter have changed in the United States between 2014 and 2024. I want to compare the number of people experiencing homelessness with the total number of year-round available beds. This can show a broader picture of how the capacity to provide shelter to those experiencing homelessness changed alongside the overall size of the homeless population. I also want to distinguish between sheltered and unsheltered homelessness to examine how the composition of homelessness changed over time with capacity.
+This project will show that homelessness in the United States is not just a number, and it cannot be analyzed and understood through a single metric or at a single point in time. This project will highlight the fact that people experiencing homelessness are not a monolithic population, either, and different people experience homelessness differently at different times. 
 
-I also want to incorporate race into my project, examining these patterns between different racial groups. I want to explore whether changes in sheltered and unsheltered homelessness have been similar across racial groups. I can use the date I have found to show shelter capacity and the population experiencing homelessness changing alongside one another to help my users understand both the scale of homelessness and how experiences of homelessness differ across groups over time. 
+This project will examine how homelessness has changed over the last decade (or rather between 2014 and 2024) in this country. The project will look at how the overall amount of people experiencing homelessness has changed over that period, as well as how the different ways in which people experience homelessness (being sheltered or unsheltered) has changed. The project will also examine the changes in shelter capacity over this period, and will compare the change in capacity directly with the change in the amount of homelessness, to give my audience information to consider when thinking of responses to homelessness. Finally, I will incorporate race into the project to interrogate how different groups have experienced these patterns over time.
+
+These analyses will give my audience a fuller picture of homelessness, the people who experience it, and the resources available to them.
 
 # Outline
 
@@ -44,6 +46,42 @@ I also want to incorporate race into my project, examining these patterns betwee
 
 Following the story structure outlined in Chapter 8 of our Good Charts textbook, I plan to organize my story around a setup (“some reality"), conflict (“new information that affects reality”), and resolution (“some new reality").
 
+### I.Setup: Establishing the “Reality” of Homelessness in the United States
+
+A. Introduce a personal story of someone experiencing homelessness, with an image and text, to immediately get the audience emotionally invested and to establish the stakes of this topic. 
+
+B. How has homelessness changed over the past decade? 
+     a. Homelessness affects many people in the country and reached a peak in 2024, according to the National Alliance to End Homelessness. 
+     b. The amount of people experiencing homelessness is also constantly fluctuating.
+         i. Visualization to support this point, maybe a line chart showing the total number of people experiencing homelessness between 2014-2024.
+
+C. A brief nod to the fact that this data is an estimate due to being collected at a specific Point-in-Time (PIT) to maintain the truthfulness of this story. 
+    a. Highlight that this PIT is on a single January night.
+
+
+### II. Conflict: “New Information” Complicates our Analysis of Homelessness
+
+A. But is homelessness a uniform experience? 
+   a. Instead of just looking at the total number of homeless people, users can see that the PIT count categorizes people as “sheltered or unsheltered,” and their experiences could be different. 
+	      i. Can continue the textual, personal story of those experiencing homelessness, finding stories that highlight the differences between being sheltered and unsheltered.
+       ii. Visualization to support this point, maybe a line chart comparing sheltered and unsheltered homelessness over the same period of time. We can see how they compare to one another, and to our other          graph of total homelessness. 
+
+B. What does available shelter look like? How has shelter capacity changed alongside homelessness? 
+  a. At this point users are likely shocked by the scale of the issue, and are wondering how responses to homelessness are changing alongside homelessness itself.
+      i. This is when I can bring in another visualization, likely a line chart showing the availability of year-round shelter beds over time. 
+     ii. I can also create a visualization comparing the change in this availability to the change in homelessness over time. Since this will require using the the two datasets I found, I can compare the rate of change of each relative to 2014
+
+C. If there are any years that showed substantial changes, I could treat these like the “peaks and valleys” we learned about during our in-class exercise, and make them visual focal points. 
+
+### III. Resolution: Considering Race and Gaining a Comprehensive Understanding 
+
+A. Who is experiencing these different forms of homelessness? Do sheltered and unsheltered experiences differ across racial groups?  
+   a. Now that the users understand the overall trends and scale of homelessness, and have begun to understand the relationship between the number of people experiencing homelessness and available shelter capacity, they can dig deeper into whether these patterns are experienced similarly across racial groups.  
+     i. I can create a visualization showing the racial composition of sheltered and unsheltered homelessness over our time period. This could include some sort of bar chart or a heat map.
+
+B. Bring back in the personal stories I have woven throughout. 
+
+C. I can then leave the users feeling empowered that they have a more comprehensive understanding of homelessness, as well as an understanding that it has been experienced differently and in different amounts across time and racial groups. 
 
 # Initial sketches
 
