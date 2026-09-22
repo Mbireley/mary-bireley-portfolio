@@ -51,24 +51,34 @@ Following the story structure outlined in Chapter 8 of our Good Charts textbook,
 A. Introduce a personal story of someone experiencing homelessness, with an image and text, to immediately get the audience emotionally invested and to establish the stakes of this topic. 
 
 B. How has homelessness changed over the past decade? 
+
      a. Homelessness affects many people in the country and reached a peak in 2024, according to the National Alliance to End Homelessness. 
+	 
      b. The amount of people experiencing homelessness is also constantly fluctuating.
+	 
          i. Visualization to support this point, maybe a line chart showing the total number of people experiencing homelessness between 2014-2024.
 
 C. A brief nod to the fact that this data is an estimate due to being collected at a specific Point-in-Time (PIT) to maintain the truthfulness of this story. 
+
     a. Highlight that this PIT is on a single January night.
 
 
 ### II. Conflict: “New Information” Complicates our Analysis of Homelessness
 
 A. But is homelessness a uniform experience? 
+
    a. Instead of just looking at the total number of homeless people, users can see that the PIT count categorizes people as “sheltered or unsheltered,” and their experiences could be different. 
+   
 	      i. Can continue the textual, personal story of those experiencing homelessness, finding stories that highlight the differences between being sheltered and unsheltered.
-       ii. Visualization to support this point, maybe a line chart comparing sheltered and unsheltered homelessness over the same period of time. We can see how they compare to one another, and to our other          graph of total homelessness. 
+		  
+         ii. Visualization to support this point, maybe a line chart comparing sheltered and unsheltered homelessness over the same period of time. We can see how they compare to one another, and to our other          graph of total homelessness. 
 
 B. What does available shelter look like? How has shelter capacity changed alongside homelessness? 
+
   a. At this point users are likely shocked by the scale of the issue, and are wondering how responses to homelessness are changing alongside homelessness itself.
+  
       i. This is when I can bring in another visualization, likely a line chart showing the availability of year-round shelter beds over time. 
+	  
      ii. I can also create a visualization comparing the change in this availability to the change in homelessness over time. Since this will require using the the two datasets I found, I can compare the rate of change of each relative to 2014
 
 C. If there are any years that showed substantial changes, I could treat these like the “peaks and valleys” we learned about during our in-class exercise, and make them visual focal points. 
