@@ -48,9 +48,9 @@ Following the story structure outlined in Chapter 8 of our Good Charts textbook,
 
 ### I. Setup: Establishing the “Reality” of Homelessness in the United States
 
-A. Introduce a personal story of someone experiencing homelessness, with an image and text, to immediately get the audience emotionally invested and to establish the stakes of this topic. 
+#### A. Introduce a personal story of someone experiencing homelessness, with an image and text, to immediately get the audience emotionally invested and to establish the stakes of this topic. 
 
-B. How has homelessness changed over the past decade? 
+#### B. How has homelessness changed over the past decade? 
 
  a. Homelessness affects many people in the country and reached a peak in 2024, according to the National Alliance to End Homelessness. 
 	 	 
@@ -58,13 +58,13 @@ B. How has homelessness changed over the past decade?
 	 	 
 	i.Visualization to support this point, maybe a line chart showing the total number of people experiencing homelessness between 2014-2024.
 		 
-C. A brief nod to the fact that this data is an estimate due to being collected at a specific Point-in-Time (PIT) to maintain the truthfulness of this story. 
+#### C. A brief nod to the fact that this data is an estimate due to being collected at a specific Point-in-Time (PIT) to maintain the truthfulness of this story. 
 
  a. Highlight that this PIT is on a single January night.
 
 ### II. Conflict: “New Information” Complicates our Analysis of Homelessness
 
-A. But is homelessness a uniform experience? 
+#### A. But is homelessness a uniform experience? 
 
  a. Instead of just looking at the total number of homeless people, users can see that the PIT count categorizes people as “sheltered or unsheltered,” and their experiences could be different. 
    
@@ -72,7 +72,7 @@ A. But is homelessness a uniform experience?
 
   ii. Visualization to support this point, maybe a line chart comparing sheltered and unsheltered homelessness over the same period of time. We can see how they compare to one another, and to our other          graph of total homelessness. 
 
-B. What does available shelter look like? How has shelter capacity changed alongside homelessness? 
+#### B. What does available shelter look like? How has shelter capacity changed alongside homelessness? 
 
  a. At this point users are likely shocked by the scale of the issue, and are wondering how responses to homelessness are changing alongside homelessness itself.
 
@@ -80,19 +80,19 @@ B. What does available shelter look like? How has shelter capacity changed along
 	  
    ii. I can also create a visualization comparing the change in this availability to the change in homelessness over time. Since this will require using the the two datasets I found, I can compare the rate of change of each relative to 2014
 
-C. If there are any years that showed substantial changes, I could treat these like the “peaks and valleys” we learned about during our in-class exercise, and make them visual focal points. 
+#### C. If there are any years that showed substantial changes, I could treat these like the “peaks and valleys” we learned about during our in-class exercise, and make them visual focal points. 
 
 ### III. Resolution: Considering Race and Gaining a Comprehensive Understanding 
 
-A. Who is experiencing these different forms of homelessness? Do sheltered and unsheltered experiences differ across racial groups?  
+#### A. Who is experiencing these different forms of homelessness? Do sheltered and unsheltered experiences differ across racial groups?  
 
  a. Now that the users understand the overall trends and scale of homelessness, and have begun to understand the relationship between the number of people experiencing homelessness and available shelter  capacity, they can dig deeper into whether these patterns are experienced similarly across racial groups.  
    
   i. I can create a visualization showing the racial composition of sheltered and unsheltered homelessness over our time period. This could include some sort of bar chart or a heat map.
 
-B. Bring back in the personal stories I have woven throughout. 
+#### B. Bring back in the personal stories I have woven throughout. 
 
-C. I can then leave the users feeling empowered that they have a more comprehensive understanding of homelessness, as well as an understanding that it has been experienced differently and in different amounts across time and racial groups. 
+#### C. I can then leave the users feeling empowered that they have a more comprehensive understanding of homelessness, as well as an understanding that it has been experienced differently and in different amounts across time and racial groups. 
 
 # Initial sketches
 
