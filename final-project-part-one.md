@@ -73,7 +73,7 @@ Following the story structure outlined in Chapter 8 of our Good Charts textbook,
 
 ### III. Resolution: Considering Race and Gaining a Comprehensive Understanding
 
-1. Who is experiencing these different forms of homelessness? Do sheltered and unsheltered experiences differ across racial groups?
+1. Who is experiencing these different forms of homelessness? Who is most at risk? Do sheltered and unsheltered experiences differ across racial groups?
    1. Now that users understand the overall trends and scale of homelessness and have begun to understand how the number of people experiencing homelessness has changed alongside shelter capacity, they can dig deeper into whether these patterns are experienced similarly across racial groups.
    2. Add a visualization showing the racial composition of sheltered and unsheltered homelessness over the time period. This could include a heat map or another visualization that allows racial groups to be compared across time.
 
@@ -84,6 +84,11 @@ Following the story structure outlined in Chapter 8 of our Good Charts textbook,
 # Initial sketches
 
 Based on my outline and story arc, I created sketches with paper and pencil to show the flow of my story and the anticipated data visualizations I will create. 
+
+![Sketch 1](Outline1.png) 
+![Sketch 2](Outline2.png) 
+![Sketch 3](Outline3.png) 
+![Sketch 4](Outline4.png) 
 
 # The Data
 
