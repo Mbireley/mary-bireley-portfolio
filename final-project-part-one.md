@@ -112,3 +112,7 @@ To combine all the necessary elements and create a cohesive story, I will utiliz
 Berinato, Scott, Good Charts, “A Return to Teamwork,” 2023, 225-235.
 
 Soucy, Daniel, Hall, Andrew, and Moses Joy, “State of Homelessness: 2025 Edition,” National Alliance to End Homelessness, 2025, https://endhomelessness.org/state-of-homelessness/. 
+
+# AI Acknowledgements
+
+I did not utilize AI.
