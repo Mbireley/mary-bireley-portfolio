@@ -86,8 +86,11 @@ Following the story structure outlined in Chapter 8 of our Good Charts textbook,
 Based on my outline and story arc, I created sketches with paper and pencil to show the flow of my story and the anticipated data visualizations I will create. 
 
 ![Sketch 1](Outline1.png) 
+
 ![Sketch 2](Outline2.png) 
+
 ![Sketch 3](Outline3.png) 
+
 ![Sketch 4](Outline4.png) 
 
 # The Data
