@@ -92,7 +92,7 @@ By interviewing my peers I hope to learn if my story gives them a better underst
 7. Improving Visual Elements: Utilize the grey color scheme (which was good) to the story's advantage more, adding color to important numbers, or at the end, just somewhere impactful. So data visualization backgrounds might need to be grey, too. Making the backgrounds more related to the stories could help (for example, snow in the background for Craig’s story, but the chainlink fence image was powerful too, so keep it somewhere).
 8. Other Areas of Improvement: At a point the personal stories kept going on and felt more like a laundry list, could benefit from a bigger break between stories.
 
-# Synthesizing the Interviews and Identifying Changes for Part III Identified changes for Part III
+# Synthesizing the Interviews and Identifying Changes for Part III 
 
 My respondents identified very similar strengths and weaknesses, which will help me identify areas for improvement.
 
@@ -129,6 +129,6 @@ U.S. Department of Housing and Urban Development, Point-in-Time Estimates by Sta
 
 United States Interagency Council on Homelessness, “Findings and Limitations of the 2021 Point-in-Time Count,” United States Interagency Council on Homelessness, February 8, 2022, https://www.usich.gov/news-events/news/findings-and-limitations-2021-point-time-count. 
 
-# AI acknowledgements
+# AI Acknowledgements
 
 I did not utilize AI.
